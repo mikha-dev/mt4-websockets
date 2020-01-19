@@ -1,0 +1,4 @@
+LIBRARY	"mt4-rest.dll" 
+EXPORTS
+Init
+Deinit
