@@ -1,4 +1,14 @@
-LIBRARY	"mt4-rest.dll" 
+LIBRARY	"mt4-common.dll" 
 EXPORTS
 Init
 Deinit
+httpSendPost
+SetHeader
+WSGetLastError
+GetCommand
+SendCommand
+base64Decode
+getMAC
+loadCache
+setCache
+getCache
