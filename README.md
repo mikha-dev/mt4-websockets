@@ -1,4 +1,4 @@
-Turns Metatrader4 into websockets client. 
+Turns Metatrader4/Metatrader5 into websockets client. 
 
 Note: make sure you have VSredist: https://www.microsoft.com/en-ie/download/details.aspx?id=48145
 
